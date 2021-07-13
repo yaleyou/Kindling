@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397369049113",
+    "project_id": "kindling-a68dd",
+    "storage_bucket": "kindling-a68dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397369049113:android:4d3d0d6b77e65d2d4b2a88",
+        "android_client_info": {
+          "package_name": "com.awesomeproject3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397369049113-stdbmvtpv6at04vkormfehtoav3u4fsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNpHFLTOz_lI9Zd9_CZvASyenjIgN7bDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397369049113-stdbmvtpv6at04vkormfehtoav3u4fsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
